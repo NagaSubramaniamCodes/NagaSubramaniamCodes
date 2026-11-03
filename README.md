@@ -1,243 +1,329 @@
-# Nagasubramaniam G
+# Hi, I'm Nagasubramaniam G 👋
 
-### AI/ML Engineer | Generative AI | LLM & RAG Systems | Full-Stack Engineering
+### AI/ML Engineer | Generative AI | LLM & RAG Systems | Full-Stack Developer
 
-**Engineering Intelligent Solutions. Transforming Ideas into Real-World Products.**
+**Building Intelligent Systems. Engineering Real-World Solutions.**
 
-I am an AI/ML Engineer focused on building practical intelligent applications by combining Machine Learning, Generative AI, Large Language Models, and modern software engineering.
+I build practical AI-powered applications and full-stack products by combining Artificial Intelligence, Machine Learning, Generative AI and modern software engineering.
 
-My work spans the development of LLM-powered applications, Retrieval-Augmented Generation pipelines, AI-driven features, and full-stack products — with an emphasis on translating technical concepts into functional, usable solutions.
+My interests span LLM-powered applications, Retrieval-Augmented Generation, intelligent workflows, computer vision and product engineering. I enjoy taking ideas from problem definition to technical design, implementation and deployment.
 
-I enjoy working across the engineering lifecycle: understanding the problem, designing the architecture, developing the solution, integrating technologies, evaluating results, and delivering working applications.
+I believe in learning through building, engineering with purpose and creating solutions that deliver practical value.
 
-**My engineering interests:** Applied AI • Generative AI • LLM Engineering • RAG • Machine Learning • Full-Stack Systems • Data Engineering
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasubramaniam-g-a063012ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagaSubramaniamCodes)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-15803D?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-
----
-
-## PROFESSIONAL PROFILE
-
-- **Education:** B.Tech in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning.
-- **Institution:** Kalasalingam Academy of Research and Education.
-- **Additional Training:** Data Science and Machine Learning — Bosscoder Academy.
-- **Core Focus:** Applied AI, Machine Learning and Generative AI Engineering.
-- **LLM Expertise Areas:** RAG workflows, embeddings, semantic retrieval and LLM integration.
-- **Software Engineering:** Full-stack application development, backend APIs and relational database design.
-- **Product Experience:** Independent SaaS development and freelance website delivery.
-- **Recognition:** Hackathon winner, Indian patent and research publication.
-- **Career Objective:** Contributing to engineering teams building intelligent, scalable and impactful software products.
-
-**Currently interested in:** AI/ML Engineer, Generative AI Engineer, Applied AI Engineer and LLM Application Developer opportunities.
+<p>
+  <a href="https://www.linkedin.com/in/nagasubramaniam-g-a063012ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/NagaSubramaniamCodes"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-15803D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
-# TECHNICAL EXPERTISE
+## 👨‍💻 About Me
 
-### Artificial Intelligence & Machine Learning
+- 🎓 **Education:** B.Tech in Computer Science and Engineering — Artificial Intelligence and Machine Learning specialization.
+- 🏛️ **Institution:** Kalasalingam Academy of Research and Education.
+- 📚 **Professional Training:** Data Science and Machine Learning — Bosscoder Academy.
+- 🤖 **Primary Focus:** AI/ML Engineering and Generative AI.
+- 🧠 **Specialization Interests:** LLMs, RAG architectures, embeddings and semantic retrieval.
+- ⚙️ **Engineering Interests:** Full-stack development, backend systems and database architecture.
+- 🚀 **Project Experience:** Independent product development, freelance client delivery and collaborative AI engineering.
+- 🏆 **Recognition:** First-place hackathon achievement, Indian patent and research publication.
+- 📍 **Location:** Chennai, Tamil Nadu, India.
+- 🌐 **Languages:** English and Tamil.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+**Open to:** AI/ML Engineer, Generative AI Engineer, Applied AI Engineer and LLM/RAG Developer opportunities.
 
-Machine Learning · Deep Learning · Natural Language Processing · Computer Vision · Model Evaluation · Predictive Analytics · Transfer Learning
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Python, Java, JavaScript and TypeScript"/>
+</p>
+
+### AI, Machine Learning & Deep Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" alt="PyTorch and OpenCV"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
+
+- Machine Learning and Deep Learning
+- Convolutional Neural Networks (CNNs)
+- Transfer Learning
+- Natural Language Processing (NLP)
+- Computer Vision
+- YOLO and Object Detection
+- Model Evaluation
+- Predictive Analytics
+- Feature Engineering
+- Facial Emotion Recognition
 
 ### Generative AI & LLM Engineering
 
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-0467DF?style=flat-square)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge" alt="Llama"/>
+  <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge" alt="Mistral"/>
+</p>
 
-Large Language Models · Retrieval-Augmented Generation · Text Embeddings · Semantic Search · Vector Retrieval · Sentence Transformers · Prompt Engineering · LLM Application Development
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Text Embeddings
+- Sentence Transformers
+- Semantic Search
+- Vector Retrieval
+- Prompt Engineering
+- LLM Integration
+- Multimodal AI
 
-### Full-Stack & Backend Engineering
+### Frontend & Full-Stack Development
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,html,css" alt="Next.js, React, TypeScript, HTML and CSS"/>
+</p>
 
-Frontend Development · REST APIs · Backend Integration · Authentication · Role-Based Access Control · Application Architecture
+- Next.js
+- React
+- TypeScript
+- Full-Stack Application Development
+- Responsive Web Development
+- Frontend Architecture
+
+### Backend Engineering & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi" alt="Node.js and FastAPI"/>
+</p>
+
+- FastAPI
+- Node.js
+- REST API Development
+- Backend Integration
+- Authentication
+- Role-Based Access Control (RBAC)
 
 ### Databases & Data Engineering
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma" alt="PostgreSQL, MySQL, Supabase and Prisma"/>
+  <img src="https://img.shields.io/badge/Neon_Database-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon Database"/>
+</p>
 
-Relational Database Design · SQL · Data Processing · Data Cleaning · Data Analysis · ETL Concepts · Database Modelling
+- SQL
+- PostgreSQL
+- Supabase
+- Neon Database
+- Prisma ORM
+- Relational Database Design
+- Data Processing
+- Data Cleaning
+- Web Scraping
+- Data Analysis
+- ETL Concepts
+- Data Pipeline Concepts
+- Data Visualization
 
-### Cloud, DevOps & Engineering Tools
+### Cloud, DevOps & Developer Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,git,github,linux" alt="Docker, Cloudflare, Git, GitHub and Linux"/>
+</p>
 
-Docker · Git/GitHub · Cloudflare · Deployment Workflows · Linux
+- Docker
+- Cloudflare CDN
+- DDoS Protection
+- Git and GitHub
+- Linux
+- Application Deployment
+
+### Additional Engineering Exposure
+
+- **Software Engineering:** Java, Object-Oriented Programming, DBMS, CRUD operations and application design.
+- **Computer Vision:** YOLO, OpenCV, object detection and video understanding.
+- **IoT & Robotics:** Sensors, embedded systems, automation and environmental monitoring.
+- **Advanced Analytics:** Time-series analysis, anomaly detection, predictive maintenance and recommendation systems.
+- **AI Workflows:** Sequence modelling, classification, model experimentation and evaluation.
 
 ---
 
-# SELECTED ENGINEERING PROJECTS
+## 🚀 Featured Projects
 
-A selection of projects demonstrating applied AI, system development, product architecture and real-world implementation.
+### 01. SportsHub — Sports Facility Management SaaS
 
-## 01. SportsHub
-**Independent Product Development | Full-Stack SaaS Engineering**
+**Solo Product Development | Full-Stack Engineering**
 
-A sports facility management platform designed to streamline facility discovery, booking, access control and payment workflows through an integrated digital product.
+Developing a sports facility management platform designed to integrate facility discovery, booking, access control and payment workflows.
 
-**Engineering Contributions**
-- Independently developed the product across frontend, backend and database layers.
-- Designed a relational database architecture comprising **29+ models**.
-- Implemented authentication and Role-Based Access Control.
-- Integrated payment workflows using Razorpay.
-- Developed AI-powered slot recommendation capabilities.
-- Worked across application architecture, integration and deployment.
+**Project Highlights**
+- Solo product development and architecture ownership.
+- Relational database design involving 29+ models.
+- Authentication and Role-Based Access Control using Clerk.
+- Razorpay payment integration.
+- AI-powered slot recommendation capabilities.
+- Full-stack application architecture using Next.js and PostgreSQL.
 
-**Technology:** Next.js · React · TypeScript · PostgreSQL · Prisma · Clerk · Razorpay · Docker
+**Technology Stack**
 
-**What this demonstrates:** End-to-end product ownership, database architecture, full-stack engineering, authentication design and AI feature integration.
+`Next.js` `React` `TypeScript` `PostgreSQL` `Prisma` `Clerk v6` `Razorpay` `Docker`
+
+**Status:** Work in progress. Repository is private; no public demo currently available.
 
 ---
 
-## 02. Chola Power
+### 02. Chola Power — Solar Energy Digital Platform
+
 **Freelance Client Delivery | Production Web Engineering**
 
-A digital platform developed for a solar-energy business, focused on delivering a responsive online presence and a production-oriented web experience.
+Developed and deployed a responsive digital platform for a solar-energy business.
 
-**Engineering Contributions**
-- Developed the business website using Next.js and React.
-- Implemented Docker-based application delivery.
+**Project Highlights**
+- Built and deployed the business website.
+- Developed a responsive Next.js and React interface.
+- Implemented Docker-based delivery.
 - Integrated Cloudflare CDN and DDoS protection.
-- Implemented transactional email functionality.
-- Worked on technical SEO and production deployment.
+- Implemented transactional email integration.
+- Established a technical SEO foundation.
 
-**Technology:** Next.js 15 · React 19 · Docker · Cloudflare · Transactional Email · SEO
+**Technology Stack**
 
-🌐 **Live Application:** [cholapower.in](https://cholapower.in)
+`Next.js 15` `React 19` `Docker` `Cloudflare CDN` `Transactional Email` `Technical SEO`
 
-**What this demonstrates:** Freelance delivery, modern frontend engineering, deployment workflows and practical web infrastructure.
+🌐 **Live Website:** [https://cholapower.in](https://cholapower.in)
 
 ---
 
-## 03. Dharani Fitness
-**Freelance Web Development | Business Digital Platform**
+### 03. Dharani Fitness — Gym Equipment Business Website
 
-A digital presence for a gym equipment business based in Kurnool, Andhra Pradesh.
+**Freelance Web Development | Full-Stack Web Application**
 
-**Engineering Contributions**
+Developed a digital presence for Dharani Fitness, a gym equipment business based in Kurnool, Andhra Pradesh.
+
+**Project Highlights**
 - Developed a responsive business website.
-- Built the frontend around the business's digital presence and product offerings.
-- Worked with a database-backed application architecture.
-- Focused on presenting the business and its offerings through a modern web experience.
+- Built the frontend around the business's digital presence and equipment offerings.
+- Worked with database-backed application architecture.
+- Focused on presenting the business through a modern web experience.
 
-**Technology:** Next.js · Neon Database · Vercel
+**Technology Stack**
 
-🌐 **Live Application:** [dharanifitness.in](https://dharanifitness.in)
+`Next.js` `Neon Database` `Vercel`
 
-**What this demonstrates:** Client-oriented development, full-stack integration and translating business requirements into digital experiences.
+🌐 **Live Website:** [https://dharanifitness.in](https://dharanifitness.in)
 
 ---
 
-## 04. Conversational AI Assistant with RAG
-**Generative AI | Collaborative Engineering Project**
+### 04. Conversational AI Assistant with RAG
 
-A conversational AI application integrating Large Language Models with Retrieval-Augmented Generation to support context-aware responses using retrieved information.
+**Collaborative Team Project | LLM & Retrieval Engineering**
 
-**Engineering Contributions**
-- Contributed to an LLM-based conversational application using Llama and Mistral.
-- Implemented document-processing and text-chunking workflow components.
-- Worked on embedding generation and semantic retrieval.
+Developed a conversational AI assistant combining Large Language Models with semantic retrieval to generate more grounded, context-aware responses.
+
+**Project Highlights**
+- Worked with Llama and Mistral models.
+- Contributed to document processing and text chunking.
+- Developed embedding-based semantic retrieval workflows.
 - Used FAISS for vector similarity search.
-- Contributed to model integration and evaluation.
-- Achieved a **reported F1 score above 89%** in the project evaluation.
+- Contributed to model interaction, evaluation and application integration.
+- Achieved a reported evaluation F1 score above **89%**.
 
-**Technology:** Python · PyTorch · Hugging Face · Llama · Mistral · FAISS · Sentence Transformers · FastAPI · Docker
+**Technology Stack**
 
-**What this demonstrates:** LLM integration, RAG architecture, semantic retrieval and collaborative AI application development.
-
----
-
-# ACHIEVEMENTS & RECOGNITION
-
-### 🥇 First Place — 24-Hour Hack-AI-thon
-- Secured first place as part of a winning team among **39+ participating teams**.
-- Developed a multimodal AI virtual assistant during the competition.
-- Received a prize of **₹5,000**.
-
-### 📜 Indian Patent — 573184
-- Flower Plucking Robotic Arm project.
-- Applied engineering work involving robotics and automation.
-- Refer to the official patent record for exact inventor attribution.
-
-### 📚 Research Publication
-- **Title:** Cancer and Tumor Detection Using Deep Learning Techniques.
-- **Conference:** ICMCTT 2024.
-- **Author Position:** Fourth author.
-
-### 🎓 Professional Credentials
-- Microsoft Azure AI Fundamentals — AI-900.
-- Microsoft Azure Fundamentals — AZ-900.
-- NASSCOM — NSQF Level 6.
-- HackerRank — Python and SQL credentials.
+`Python` `PyTorch` `Hugging Face` `Llama` `Mistral` `FAISS` `Sentence Transformers` `FastAPI` `Docker`
 
 ---
 
-# EDUCATION & TRAINING
+## 💡 Additional Projects
 
-### Bachelor of Technology
-**Computer Science and Engineering — Artificial Intelligence and Machine Learning Specialization**
+A selection of collaborative projects demonstrating applied AI, computer vision, data engineering, IoT and software development.
 
-Kalasalingam Academy of Research and Education  
+### AI & Machine Learning
+
+- **Multimodal AI Virtual Assistant** — GenAI prototype developed during a 24-hour hackathon; first-place team achievement.
+- **Skin Cancer Prediction and Detection** — CNNs, transfer learning, OpenCV and image-based model evaluation.
+- **Accident Risk Prediction** — Predictive analytics, feature engineering and classification.
+- **Predictive Machine Failure Detection** — Multivariate time-series analysis and anomaly detection.
+- **Continuous Sign Language Translation** — Video understanding, sequence modelling and NLP.
+
+### Computer Vision & Intelligent Systems
+
+- **YOLO Transportation Analytics** — Custom-dataset object detection and transportation analytics.
+- **Roadside Object Safety Detection** — YOLO-based object detection and safety-oriented computer vision.
+- **Emotion Aware Music Recommendation** — Facial emotion recognition and recommendation systems.
+- **Flower Plucking Robotic Arm** — Robotics, computer vision and automation; associated with Indian Patent No. 573184.
+
+### Data, IoT & Software Engineering
+
+- **Amazon Web Scraping and Product Intelligence** — Python, web scraping, Pandas, SQL and data analysis.
+- **Air Quality Monitoring System** — IoT sensors, Python, environmental monitoring and dashboards.
+- **IoT Carbon Sequestration Monitor** — Sensor-based monitoring, data logging and environmental analytics.
+- **Java Library Management System** — Java, OOP, DBMS, CRUD workflows and application design.
+
+---
+
+## 🏆 Achievements & Recognition
+
+| Achievement | Details |
+|---|---|
+| 🥇 Hack-AI-thon | First place among 39+ teams; ₹5,000 prize |
+| 📜 Indian Patent | Patent No. 573184 — Flower Plucking Robotic Arm |
+| 📚 Research Publication | Fourth author — *Cancer and Tumor Detection Using Deep Learning Techniques*, ICMCTT 2024 |
+| 🎓 NASSCOM | AI - Data Scientist: Visualizations V3.0, NSQF Level 6 |
+| ☁️ Microsoft | Azure AI Fundamentals — AI-900 |
+| ☁️ Microsoft | Azure Fundamentals — AZ-900 |
+| 💻 HackerRank | Python and SQL credentials |
+| 📖 NPTEL | Recognition and selected course credentials |
+
+### Additional Credential
+
+**Oracle Cloud Infrastructure — Database Management**
+
+Historical credential; its recorded validity ended in July 2026.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology — Computer Science and Engineering**
+
+Kalasalingam Academy of Research and Education
+
+Specialization: Artificial Intelligence and Machine Learning
+
 August 2021 – May 2025
 
-### Data Science & Machine Learning Training
-**Bosscoder Academy**
+**Additional Professional Training**
 
-Focused on developing technical foundations and practical capabilities in data science and machine learning.
-
----
-
-# ENGINEERING INTERESTS
-
-Areas I am particularly interested in exploring and building within:
-
-- **Applied Generative AI:** LLM-powered applications, intelligent workflows and AI-assisted products.
-- **LLM Engineering:** RAG pipelines, semantic retrieval, embeddings and evaluation.
-- **Machine Learning:** Deep learning, computer vision, NLP and predictive modelling.
-- **AI Product Engineering:** Connecting AI models with usable software products.
-- **Backend Engineering:** APIs, databases, architecture and application integration.
-- **Data Engineering:** Data processing, data pipelines and analytics workflows.
-- **Cloud & Deployment:** Containerization, deployment and production-oriented infrastructure.
+Bosscoder Academy — Data Science and Machine Learning.
 
 ---
 
-# GITHUB ACTIVITY
+## 🔬 Currently Exploring
 
-[![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NagaSubramaniamCodes&theme=github_dark)](https://github.com/NagaSubramaniamCodes)
-
----
-
-# CONNECT WITH ME
-
-I welcome opportunities to collaborate, exchange technical ideas and contribute to teams building meaningful AI-powered products.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagasubramaniam-g-a063012ba/)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagaSubramaniamCodes)
-
-**Portfolio:** 
+- Generative AI and LLM-powered applications.
+- Advanced RAG architectures and retrieval strategies.
+- Agentic AI and intelligent workflows.
+- Model evaluation and optimization.
+- Data Engineering and pipeline development.
+- Scalable backend architecture.
+- Production-oriented AI application development.
 
 ---
 
-> "Great engineering is not just about writing code. It is about solving the right problems and building solutions that matter."
+## 🤝 Let's Connect
 
-**Thanks for visiting. Explore my repositories and engineering projects!**
+I welcome opportunities to collaborate with developers, AI engineers, researchers and teams building meaningful technology.
+
+<p>
+  <a href="https://www.linkedin.com/in/nagasubramaniam-g-a063012ba/"><img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/NagaSubramaniamCodes"><img src="https://img.shields.io/badge/GitHub-Explore_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-15803D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+> "Great engineering is not just about writing code. It is about understanding problems and building solutions that matter."
+
+**Thanks for visiting my profile. Let's build something meaningful! 🚀**
