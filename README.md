@@ -13,9 +13,10 @@ I believe in learning through building, engineering with purpose and creating so
 <p>
   <a href="https://www.linkedin.com/in/nagasubramaniam-g-a063012ba/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/NagaSubramaniamCodes"><img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-15803D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.nagabuilds.in/"><img src="https://img.shields.io/badge/Portfolio-View_My_Work-15803D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
+🌐 **Portfolio & Case Studies:** [https://www.nagabuilds.in/](https://www.nagabuilds.in/)
 ---
 
 ## 👨‍💻 About Me
